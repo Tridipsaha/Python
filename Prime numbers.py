@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
 
 
 start = 25
@@ -17,7 +14,7 @@ for num in range(start, end + 1):
             print(num)
 
 
-# In[ ]:
+
 
 
 
